@@ -32,6 +32,10 @@ export const zhCn = {
   'show up to version:': '显示指定版本:',
   'Size range:': '取值范围:',
   'Success 200': '请求成功（200）',
+  'Toggle navigation': '切換導航',
   Type: '类型',
   url: '地址',
+  Copy: '复制文本',
+  'Press Ctrl+C to copy': '按Ctrl+C复制',
+  'copied!': '文本已复制!',
 };
